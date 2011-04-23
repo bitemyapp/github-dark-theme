@@ -370,17 +370,9 @@ body,#main,.unread_count,.pagehead,#browser table th,.main,.news .alert .body,.p
  }
 
  pre, code {
-     font: 18px "Inconsolata" !important;
+     font: 12px "Inconsolata" !important;
  }
 
- body {
+ p {
      font-size: 18px;
- }
-
- td a {
-     font: 15px "Ubuntu" !important;
- }
- 
- td span {
-     font: 15px "Ubuntu" !important;
  }
