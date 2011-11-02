@@ -418,3 +418,6 @@ background: #222;
 .participation-graph {
 background: #222;
 }
+.news .alert p {
+font-size: 12px;
+}
