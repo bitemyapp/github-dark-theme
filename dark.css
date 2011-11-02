@@ -370,9 +370,42 @@ body,#main,.unread_count,.pagehead,#browser table th,.main,.news .alert .body,.p
  }
 
  pre, code {
-     font: 12px "Inconsolata" !important;
+     font: 12px "Monospace" !important;
  }
 
  p {
      font-size: 18px;
  }
+
+.commit-tease p.commit-title {
+background:#222;
+}
+.commit-tease .authorship{
+background: #333;
+}
+.commit-tease .commit-meta {
+background: #333;
+}
+.commit-tease {
+border: 1px solid #C5D5DD;
+background: #222;
+}
+.pagehead.repohead ul.pagehead-actions {
+background: #222;
+}
+#footer .upper_footer{
+background: #222;
+}
+#footer .lower_footer #legal {
+background: #222;
+}
+#footer .lower_footer {
+
+background: #222;
+}
+#footer .lower_footer div p {
+font-size: 14px;
+}
+#footer .lower_footer .sponsor {
+visibility: hidden;
+}
