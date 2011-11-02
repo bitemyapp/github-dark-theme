@@ -409,3 +409,12 @@ font-size: 14px;
 #footer .lower_footer .sponsor {
 visibility: hidden;
 }
+.clippy {
+visibility: hidden;
+}
+#missing-readme {
+background: #222;
+}
+.participation-graph {
+background: #222;
+}
